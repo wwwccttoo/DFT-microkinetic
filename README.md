@@ -31,15 +31,15 @@ The package you may find that its online version may not working. We provide a c
 ## ZDPlasKin Compilation
 Both the DFT-microkinetic and microkinetic models are developed using ZDPlasKin. Additional, the DFT-microkinetic model is adapted based on the codes provided by Dr. Jungmi Hong and Dr. Anthony Bruce Murphy. If you consider any further usage and/or adaption of these models, please also cite the following paper
 ``` bibtex
-@article{hong2018plasma,
-  title={Plasma catalysis as an alternative route for ammonia production: status, mechanisms, and prospects for progress},
-  author={Hong, Jungmi and Prawer, Steven and Murphy, Anthony B},
-  journal={ACS Sustainable Chemistry \& Engineering},
-  volume={6},
-  number={1},
-  pages={15--31},
-  year={2018},
-  publisher={ACS Publications}
+@article{hong2017kinetic,
+  title={Kinetic modelling of NH3 production in N2--H2 non-equilibrium atmospheric-pressure plasma catalysis},
+  author={Hong, Jungmi and Pancheshnyi, Sergey and Tam, Eugene and Lowke, John J and Prawer, Steven and Murphy, Anthony B},
+  journal={Journal of Physics D: Applied Physics},
+  volume={50},
+  number={15},
+  pages={154005},
+  year={2017},
+  publisher={IOP Publishing}
 }
 ```
 
