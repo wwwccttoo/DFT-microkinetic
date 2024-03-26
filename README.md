@@ -17,7 +17,7 @@ If you find this repository or our work helpful, please cite as:
 ```
 
 ## Dependencies
-In addition to the normal packages such as numpy, scipy and matplotlib, the analysis of this work requires one the following packages:
+In addition to the normal packages such as numpy, scipy and matplotlib, the analysis of this work requires on the following packages:
 
 * `qtplaskin` **!Critical!** Please following the instruction below
 * `ase` required for atomistic simulation analysis
