@@ -70,7 +70,7 @@ This correlates to the second part of the results section in the paper. Necessar
 ***Note***: To reproduce the figure, making sure your SALib version is `1.3.12`.
 
 ### Multi-objective Bayesian Optimization
-This correlates to the second part of the results section in the paper. This analysis is only done on the DFT-microkinetic model. Thus, the only required file to reproduce the results is `485run.csv`.
+This correlates to the third part of the results section in the paper. This analysis is only done on the DFT-microkinetic model. Thus, the only required file to reproduce the results is `485run.csv`.
 
 ## Rights and Collaborators
 (c) 2024 Mesbah Lab
